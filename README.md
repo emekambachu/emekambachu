@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js, Typescript, Django, Docker**
 
-- 💬 Ask me about **laravel, Vue.js, Php,**
+- 💬 Ask me about **laravel, Vue.js, Php, Mysql, PostgreSQL**
 
 - 📫 How to reach me **victor.c.mbachu@gmail.com**
 
