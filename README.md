@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **African Food Changemakers Hub for agripreneurs in Africa**
 
-- 🌱 I’m currently learning **React.js, Typescript, Django, Docker, AWS**
+- 🌱 I’m currently learning **React.js, Typescript, Django, Docker, AWS, Microservices**
 
-- 💬 Ask me about **laravel, Vue.js, Php, Mysql, PostgreSQL**
+- 💬 Ask me about **laravel, Vue.js, Php, Mysql, PostgreSQL, Bootstrap, Unit-test**
 
 - 📫 How to reach me **victor.c.mbachu@gmail.com**
 
