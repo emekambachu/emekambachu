@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **African Food Changemakers Hub for agripreneurs in Africa**
 
-- 🌱 I’m currently learning **React.js, Typescript, Django, Docker, AWS, Microservices**
+- 🌱 I’m currently learning **React.js, Typescript, Docker, AWS, Microservices**
 
 - 💬 Ask me about **laravel, Vue.js, Php, Mysql, PostgreSQL, Bootstrap, Unit-test**
 
