@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Mbachu</h1>
-<h3 align="center">A Senior Software Developer working for an Agri-tech company</h3>
+<h3 align="center">A Software Developer with experience in the Digital Agency, Agri-tech, Info-tech, Events and Entertainment Industry</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emekambachu" alt="emekambachu" /></a> </p>
 
