@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dexmbachu" target="blank"><img src="https://img.shields.io/twitter/follow/dexmbachu?logo=twitter&style=for-the-badge" alt="dexmbachu" /></a> </p>
 
-- 🔭 I’m currently working on [Nourishing Africa](https://afchub.org)
+- 🔭 I’m currently working on [Ted Group](https://tedgroup.com)
 
-- 🌱 I’m currently learning **React.js, Typescript, Docker**
+- 🌱 I’m currently learning **React.js, Typescript, Node.js**
 
-- 💬 Ask me about **laravel, Vue.js, Php, Javascript, AWS**
+- 💬 Ask me about **laravel, Vue.js, Php, Javascript, AWS, Docker**
 
 - 📫 How to reach me **victor.c.mbachu@gmail.com**
 
