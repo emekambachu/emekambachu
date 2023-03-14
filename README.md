@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **laravel, Vue.js, Php, Javascript, AWS, Docker, Scrum**
 
-- 💬 My Certifications **Professional Scrum Master (Scrum.org), Web Foundations Associate (CIW)**
+- 💬 My Certifications: **Professional Scrum Master (Scrum.org), Web Foundations Associate (CIW)**
 
 - 📫 How to reach me **victor.c.mbachu@gmail.com**
 
