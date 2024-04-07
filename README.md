@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Mbachu</h1>
-<h3 align="center">A Software Developer with experience in the Digital Agency, Agri-tech, Info-tech, Events and Entertainment Industry</h3>
+<h3 align="center">A Software Developer with experience in the Digital Agency, Agri-tech, Info-tech, E-commerce, Finance, Events and Entertainment Industry</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emekambachu&label=Profile%20views&color=0e75b6&style=flat" alt="emekambachu" /> </p>
 
