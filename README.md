@@ -27,10 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dexmbachu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dexmbachu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/victor-mbachu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-mbachu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8714694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8714694" height="30" width="40" /></a>
-<a href="https://instagram.com/dexmbachu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dexmbachu" height="30" width="40" /></a>
 <a href="https://medium.com/@victor.c.mbachu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@victor.c.mbachu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@dexmbachu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dexmbachu" height="30" width="40" /></a>
 </p>
