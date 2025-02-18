@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://drive.google.com/file/d/1HU-1WI3SRNBehA3XdF4wSyC7xzWekKW1/view?usp=sharing](https://drive.google.com/file/d/1HU-1WI3SRNBehA3XdF4wSyC7xzWekKW1/view?usp=sharing)
 
-- 📝 I regularly write articles on [https://medium.com/@victor.c.mbachu](https://medium.com/@victor.c.mbachu)
+- 📝 I sometimes write articles on [https://medium.com/@victor.c.mbachu](https://medium.com/@victor.c.mbachu)
 
 - 💬 Ask me about **laravel, Vue.js, Php, Javascript, AWS, Docker, Scrum, TailwindCss**
 
