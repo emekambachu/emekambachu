@@ -13,7 +13,7 @@
 
 - 📝 I sometimes write articles on [https://medium.com/@victor.c.mbachu](https://medium.com/@victor.c.mbachu)
 
-- 💬 Ask me about **laravel, Vue.js, Php, Javascript, AWS, Docker, Scrum, TailwindCss**
+- 💬 Ask me about **laravel, Vue.js, Php, Javascript, AWS, Docker, Scrum, TailwindCss, DevOps, Python**
 
 - 📫 How to reach me **victor.c.mbachu@gmail.com**
 
