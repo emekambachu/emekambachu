@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/dexmbachu" target="blank"><img src="https://img.shields.io/twitter/follow/dexmbachu?logo=twitter&style=for-the-badge" alt="dexmbachu" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Typescript, Node.js**
+- 🌱 I’m currently learning **Typescript, Node.js**
 
 - 👨‍💻 Some of my projects are available at [https://drive.google.com/file/d/1HU-1WI3SRNBehA3XdF4wSyC7xzWekKW1/view?usp=sharing](https://drive.google.com/file/d/1HU-1WI3SRNBehA3XdF4wSyC7xzWekKW1/view?usp=sharing)
 
 - 📝 I sometimes write articles on [https://medium.com/@victor.c.mbachu](https://medium.com/@victor.c.mbachu)
 
-- 💬 Ask me about **laravel, Vue.js, Php, Javascript, AWS, Docker, Scrum, TailwindCss, DevOps, Python**
+- 💬 Ask me about **laravel, Vue.js, React.js, PHP, Javascript, AWS, Docker, Scrum, TailwindCss, DevOps, Python**
 
 - 📫 How to reach me **victor.c.mbachu@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/JFMlafy3L](https://resume.io/r/JFMlafy3L)
 
-- ⚡ Fun fact **I love to travel**
+- ⚡ Fun fact **I love to Workout and Travel**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
