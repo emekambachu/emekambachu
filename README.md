@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dexmbachu" target="blank"><img src="https://img.shields.io/twitter/follow/dexmbachu?logo=twitter&style=for-the-badge" alt="dexmbachu" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, Node.js**
+- 🌱 I’m currently learning **Typescript, Node.js, AI Integration**
 
 - 👨‍💻 Some of my projects are available at [https://drive.google.com/file/d/1HU-1WI3SRNBehA3XdF4wSyC7xzWekKW1/view?usp=sharing](https://drive.google.com/file/d/1HU-1WI3SRNBehA3XdF4wSyC7xzWekKW1/view?usp=sharing)
 
